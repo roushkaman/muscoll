@@ -1,0 +1,23 @@
+development:
+  adapter: postgresql
+  database: muscoll_development
+  encoding: utf8
+  pool: 5
+  username: roushenzo
+  password: saplyk50505
+
+test:
+  adapter: postgresql
+  database: muscoll_test
+  encoding: utf8
+  pool: 5
+  username: roushenzo
+  password: saplyk50505
+
+production:
+  adapter: postgresql
+  database: muscoll_production
+  encoding: utf8
+  pool: 5
+  username: roushenzo
+  password: saplyk50505 
